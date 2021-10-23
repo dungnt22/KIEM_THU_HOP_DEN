@@ -2,7 +2,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class test {
-    // Test case cho trường hợp sủ dụng phân tích giá trị biên
+    
     @Test
     public void test1() {
         String eOutput = "Diem khong hop le";
